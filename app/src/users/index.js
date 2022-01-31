@@ -1,4 +1,4 @@
-import { Add } from './add';
+import { Add } from '../users/add';
 
 function Registration() {
   return (
